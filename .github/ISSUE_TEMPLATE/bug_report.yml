@@ -57,7 +57,7 @@ body:
     id: version
 
     attributes:
-    - name: Broken script
+      name: Broken script
 
       description: Which script occurred with the error?
 
