@@ -3,4 +3,4 @@ contact_links:
   - name: Question
     url: https://github.com/Tyler887/Hello-World/discussions/categories/discussions
     about: Please uss discussions to ask questions
-    button-label: Discussions
+    button: Discussions
