@@ -2,7 +2,6 @@ blank_issues_enabled: false
 contact_links:
   - name: Question
     url: https://github.com/Tyler887/Hello-World/discussions/categories/discussions
-    about: Please use discussions to ask questions
     button: Discussions
   - name: New language
     about: Request a new language
