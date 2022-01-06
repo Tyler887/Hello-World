@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 contact_links:
   - name: Question
-    url: https://github.com/Tyler887/Hello-World/discussions/categories/discussions
+    url: https://github.com/Tyler887/Hello-World/discussions/new?category=dscussions
     about: Ask a question about this
   - name: New language
     about: Request a new language
