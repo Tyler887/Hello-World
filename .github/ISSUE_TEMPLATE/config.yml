@@ -4,3 +4,6 @@ contact_links:
     url: https://github.com/Tyler887/Hello-World/discussions/categories/discussions
     about: Please uss discussions to ask questions
     button: Discussions
+  - name: New language
+    about: Request a new language
+    url: https://github.com/Tyler887/Hello-World/compare
