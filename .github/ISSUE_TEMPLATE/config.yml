@@ -4,5 +4,5 @@ contact_links:
     url: https://github.com/Tyler887/Hello-World/discussions/new?category=discussions
     about: Ask a question about this
   - name: New language
-    about: Request a new language
-    url: https://github.com/Tyler887/Hello-World/compare
+    about: Please fork Hello World to request a new language
+    url: https://github.com/Tyler887/Hello-World/fork
