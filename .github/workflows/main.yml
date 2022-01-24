@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: |
-           files=$(find "HW.*" -maxdepth 1 -type f -printf "." | wc -c)
+           files=$(find "HW" -maxdepth 1 -type f -printf "." | wc -c)
            echo "::notice::There will be $files Hello World samples exported"
   # This workflow contains a single job called "build"
   export:
