@@ -19,7 +19,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: |
-           if stat -t HW.* >/dev/null 2>&1 then files=$((i+1))
+           cd ./
+           if stat -t HW.* >/dev/null 2>&1 then files=$((i+1)) fi
 
 
 
