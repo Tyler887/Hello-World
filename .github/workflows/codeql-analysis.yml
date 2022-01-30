@@ -58,8 +58,8 @@ jobs:
 
 
     - run: |
-       make bootstrap
-       make release
+       make HW.*
+       make explain-it.ps1
 
     - name: Perform CodeQL Analysis
       uses: github/codeql-action/analyze@v1
