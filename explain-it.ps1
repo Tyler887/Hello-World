@@ -1,8 +1,0 @@
-echo "Hello World Explanation"
-echo "`nThe Hello World Collection is a collection of several languages to help"
-echo "you develop your first application for the language. You can copy anything"
-echo "any project from it, as long as you provide the copyright notice in the"
-echo "LICENSE file."
-echo "All Hello World scripts are freely available."
-echo "`nThis explenation is licensed under https://creativecommons.org/licenses/by/4.0."
-Read-Host "`nPress Enter to exit."
