@@ -35,7 +35,6 @@ jobs:
           files: |
             HW.*
             LICENSE
-            explain-it.ps1
           title: Latest Hello World
           prerelease: false
           automatic_release_tag: LatestHWCollection
